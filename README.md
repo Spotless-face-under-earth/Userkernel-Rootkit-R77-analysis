@@ -1,3 +1,8 @@
-# Userkernel-Rootkit-R77-analysis
-NKU Malware Analysis class homework
-It is my personal original version. If you refer, please star. If you find that there are any wrongs or omissions in my PPT or DOC, I`m pleased to receive correction and supplementation.
+# 用户级恶意代码 Rootkit-R77 分析
+NKU 恶意代码分析与防治课程作业⚙️
+
+如有引用，请先star！🌟
+
+内容包括我自己对R77中C# 代码的分析与理解，仅供参考。  
+如果有和我PPT或DOC中不同的看法，欢迎找我讨论。🙌
+
